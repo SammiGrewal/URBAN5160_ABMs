@@ -1,1 +1,9 @@
-mesa
+numpy==2.4.3
+pandas==3.0.1
+matplotlib==3.10.8
+seaborn==0.13.2
+ipykernel==7.2.0
+networkx==3.6.1
+mesa==3.5.1
+solara==1.57.3
+altair==6.00
