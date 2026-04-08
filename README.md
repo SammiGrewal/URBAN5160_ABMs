@@ -8,7 +8,8 @@ The repository includes the following relevant folders and files:
 - `\Practical 1\Predator_prey\`: a Python predator-prey model to practice the assignment
 2. Week 2 practical session
 - `\Practical_2\DogSim\`: a NetLogo model for pedestians movement inside parks, including dogwalkers
-- `\Practical_2\Wealth_Boltzmann`: a Python wealth distribution model (using the Mesa library).
+- `\Practical_2\Wealth_Boltzmann`: a Python wealth distribution model (using the Mesa library)
+- `\Practical_2\SIR_02\`: a NetLogo model extending the pandemic SIR model developed in `\Practical 1\Pandemic_SIR\`
 3. Assignment
 - `\Assignment\assignment.ipynb`: a Jupyter notebook including a Schelling model and a set of assignment questions.
 
